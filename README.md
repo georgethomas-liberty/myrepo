@@ -1,2 +1,2 @@
 # myrepo
-## test repo for clase
+## test repo for class
